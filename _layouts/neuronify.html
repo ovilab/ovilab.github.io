@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+    
+    {% include nav.html %}
+  
+    <header style="background-image: url('/img/neuronify/bg-pattern.png')">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-7">
+                    <div class="header-content">
+                        <div class="header-content-inner">
+                            <h1>Neuronify is an educational neural network app</h1>
+                            <a href="#download" class="btn btn-outline btn-xl page-scroll">Download</a>
+                            
+                            <p>
+                                <div class="badges">
+                                    <a class="badge-link" href="https://play.google.com/store/apps/details?id=net.ovilab.neuronify&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img src="/img/neuronify/google-play-badge.svg" alt=""></a>
+                                    <a class="badge-link" href="https://itunes.apple.com/us/app/neuronify/id1161373747?mt=8"><img src="/img/neuronify/app-store-badge.svg" alt=""></a>
+                                </div>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-5">
+                    <div class="device-container">
+                        <div class="device-mockup nexus7 portrait white">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="/img/neuronify/demo-screen-1.png" class="img-responsive" alt="">
+                                </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="download" class="download bg-primary text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="section-heading">Download and begin exploring neural networks</h2>
+                    <p id="downloadWindows">
+                        <a class="btn btn-outline btn-xl" role="button" href="https://github.com/CINPLA/neuronify/releases/download/latest/neuronify-windows-installer.exe">Download for Windows</a>
+                    </p>
+                    <p id="downloadMacOS">
+                        <a class="btn btn-outline btn-xl" role="button" href="https://github.com/CINPLA/neuronify/releases/download/v1.0.5/neuronify_1.0_mac.dmg" >Download for macOS</a>
+                    </p>
+                    <p id="downloadAndroid">
+                        <a class="btn btn-outline btn-xl" role="button" href="https://play.google.com/store/apps/details?id=net.ovilab.neuronify&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Download from Google Play</a>
+                    </p>
+                    <p id="downloadiOS">
+                        <a class="btn btn-outline btn-xl" role="button" href="https://itunes.apple.com/us/app/neuronify/id1161373747?mt=8">Download from iTunes App Store</a>
+                    </p>
+                    <div id="downloadLinux">
+                            <p>On Ubuntu 16.04 and above, it is easiest to install Neuronify via the terminal:</p>
+    <pre style="text-align: left;">sudo snap install neuronify
+    neuronify</pre>
+                            <p>You may also download and install the snap manually:</p>
+                            <p>
+                                <a class="btn btn-outline btn-xl" role="button"    href="https://github.com/CINPLA/neuronify/releases/download/v1.0.5/neuronify_1.0_amd64.snap">Download snap</a>
+                            </p>
+                    </div>
+                    <p>Not your operating system? Find your favorite platform below:</p>
+                    <p>
+                        <a class="btn page-scroll" role="button" href="https://github.com/CINPLA/neuronify/releases/download/v1.0.5/neuronify_1.0_amd64.snap">Ubuntu</a>
+                        <a class="btn page-scroll" role="button" href="https://github.com/CINPLA/neuronify/releases/download/v1.0.5/neuronify_1.0_mac.dmg">Mac</a>
+                        <a class="btn page-scroll" role="button" href="https://github.com/CINPLA/neuronify/releases/download/v1.0.5/neuronify-windows-installer.exe">Windows</a>
+                        <a class="btn page-scroll" role="button" href="https://github.com/CINPLA/neuronify/releases/download/v1.0.5/neuronify-windows.zip">Windows (no admin)</a>
+                        <a class="btn page-scroll" role="button" href="https://play.google.com/store/apps/details?id=net.ovilab.neuronify&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Android</a>
+                        <a class="btn page-scroll" role="button" href="https://itunes.apple.com/us/app/neuronify/id1161373747?mt=8">iOS</a>
+                        <a class="btn page-scroll" role="button" href="http://github.com/cinpla/neuronify/">Source code</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="features" class="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="section-heading">
+                        <h2>Low entry point to simulation-based neuroscience</h2>
+                        <p class="text-muted">Neuronify makes it possible to work on neural simulations without prior computational experience.</p>
+                        <hr>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="device-container">
+                        <div class="device-mockup nexus7 portrait white">
+                            <div class="device">
+                                <div class="screen">
+                                    <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
+                                    <img src="/img/neuronify/demo-screen-2.png" class="img-responsive" alt=""> </div>
+                                <div class="button">
+                                    <!-- You can hook the "home button" to some JavaScript events or just remove it -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="feature-item">
+                                    <i class="icon-screen-smartphone text-primary"></i>
+                                    <h3>Based on an integrate-and-fire model</h3>
+                                    <p class="text-muted">One of the simplest models of neurons. It focuses on the spike timing and ignores the details about the action potential dynamics. </p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="feature-item">
+                                    <i class="icon-camera text-primary"></i>
+                                    <h3>Interactive circuit components</h3>
+                                    <p class="text-muted">Use the camera as a visual sensor and your touch screen to interact with the neural circuit.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="feature-item">
+                                    <i class="icon-present text-primary"></i>
+                                    <h3>Build intuition</h3>
+                                    <p class="text-muted">Experiment with neural phenomena to increase your understanding.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="feature-item">
+                                    <i class="icon-lock-open text-primary"></i>
+                                    <h3>Open Source</h3>
+                                    <p class="text-muted">Neuronify is GPL licensed, which allows you to modify and extend it!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <!-- <section id="all-downloads" class="download bg-primary text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="section-heading">Neuronify for your favorite platform</h2>
+                    <p>Neuronify is available for a wide range of platforms. Find your favorite platform below! Also, the .zip version for Windows does not require you to have admin privileges on your computer.</p>
+                    <p>
+                        <a class="btn page-scroll" role="button" href="TODO">Linux</a>
+                        <a class="btn page-scroll" role="button" href="TODO">Mac</a>
+                        <a class="btn page-scroll" role="button" href="TODO">Windows</a>
+                        <a class="btn page-scroll" role="button" href="TODO">Windows (.zip)</a>
+                        <a class="btn page-scroll" role="button" href="TODO">Android</a>
+                        <a class="btn page-scroll" role="button" href="TODO">iOS</a>
+                        <a class="btn page-scroll" role="button" href="TODO">Linux</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <section class="cta" style="background-image: url('/img/neuronify/bg-cta.jpg')">
+        <div class="cta-content">
+            <div class="container">
+                <h2>Explore how changes in a single connection affects entire networks.</h2>
+            </div>
+        </div>
+        <div class="overlay"></div>
+    </section>
+    {% include contact.html %}
+    {% include scripts.html %}
+    <script>
+      osName = 'Unknown';
+
+      function nav(x, y, z) {
+      z = z || y;
+      if (navigator[x] && navigator[x].indexOf(y) !== -1) {
+      osName = z;
+      }
+      }
+
+      /*   navigator     value     download  */
+      nav( "appVersion", "X11",    "UNIX"    );
+      nav( "appVersion", "Mac",    "MacOS"   );
+      nav( "appVersion", "Linux"             );
+      nav( "userAgent",  "Linux"             );
+      nav( "platform",   "Linux"             );
+      nav( "appVersion", "Win",    "Windows" );
+      nav( "userAgent",  "Windows"           );
+      nav( "platform",   "Win",    "Windows" );
+      nav( "oscpu",      "Windows"           );
+      nav( "platform",   "Android"           );
+      nav( "userAgent",  "Android"           );
+      nav( "userAgent",  "iOS"               );
+      nav( "platform",   "iOS"               );
+
+      console.log("Detected OS", osName);
+
+      document.getElementById("download"+osName).className += " knownOS";
+    </script>
+  
+</body>
+
+</html>
