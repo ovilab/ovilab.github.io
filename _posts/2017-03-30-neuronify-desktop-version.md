@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Upcoming desktop version of Neuronify"
-subtitle:   "new design and features"
+subtitle:   "a new design is on the way together with improved saving and loading"
 date:       2017-03-31 12:00:00
 author:     "Svenn-Arne Dragly"
 header-img: /img/posts/bg-pattern.jpg
