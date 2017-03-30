@@ -4,6 +4,7 @@ title:      "Upcoming desktop version of Neuronify"
 subtitle:   "new design and features"
 date:       2017-03-31 12:00:00
 author:     "Svenn-Arne Dragly"
+header-img: /img/posts/bg-pattern.jpg
 categories: neuronify
 ---
 
