@@ -40,7 +40,7 @@ However, the new design will hopefully feel like an refreshing update in
 addition to being much more comfortable to use.
 Here is a work-in-progress screenshot of the upcoming design of Neuronify:
 
-![Neuronify 1.0.9 on Ubuntu](/img/posts/neuronify-1.1-desktop.png)
+![Neuronify 1.1 on Ubuntu](/img/posts/neuronify-1.1-desktop.png)
 
 After this update has been rolled out to desktop users,
 we will start adapting it to mobile again for a coherent experience between
