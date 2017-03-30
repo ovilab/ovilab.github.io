@@ -17,7 +17,7 @@ Having too large icons on desktop is not as bad as having too small icons on a
 mobile device.
 Hence, this is what Neuronify ended up looking on a desktop computer:
 
-![Neuronify 1.0.9 on Ubuntu](/img/posts/neuronify-1.0.9-desktop.png)
+![Neuronify 1.0.9 on Ubuntu](/img/posts/neuronify-1.0.9-desktop.png){:class="img-responsive"}
 
 The buttons to the right are clearly too big if you compare them to the window
 controls in the upper left corner.
@@ -40,7 +40,7 @@ However, the new design will hopefully feel like an refreshing update in
 addition to being much more comfortable to use.
 Here is a work-in-progress screenshot of the upcoming design of Neuronify:
 
-![Neuronify 1.1 on Ubuntu](/img/posts/neuronify-1.1-desktop.png)
+![Neuronify 1.1 on Ubuntu](/img/posts/neuronify-1.1-desktop.png){:class="img-responsive"}
 
 After this update has been rolled out to desktop users,
 we will start adapting it to mobile again for a coherent experience between
