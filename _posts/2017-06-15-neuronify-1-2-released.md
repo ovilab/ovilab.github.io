@@ -15,6 +15,8 @@ neural networks behave.
 You can use it to build synaptic connections between neurons and explore 
 how changes in single cells lead to behavioral changes in entire networks.
 
+![Neuronify 1.2](/img/posts/neuronify-1-2-release.png){:class="img-responsive"}
+
 This release brings a visual overhaul of Neuronify, in addition to many
 features requested by our users.
 The new design is implemented with desktop users in mind and makes it 
