@@ -28,7 +28,7 @@ as a downloadable installer on Windows and a .dmg file on macOS.
 It will also be published in Windows Store and 
 Mac App Store in the coming days.
 
-# What is in the new release #
+# What to expect in Neuronify 1.2 #
 
 The creation menu is now always visible and makes the most common items,
 such as the leaky neurons, the voltmeter and DC generator always visible.
@@ -57,7 +57,7 @@ Further, a community menu shows hosted simulations that can be downloaded.
 These are shared by other Neuronify users, which is a feature we think can be
 very attrative for teachers who wish to share their simulations with students.
 
-![New community menu](/img/posts/neuronify-1-2-save.png){:class="img-responsive"}
+![New community menu](/img/posts/neuronify-1-2-community.png){:class="img-responsive"}
 
 Contact us if you are interested in sharing your simulations in the
 community menu.
@@ -71,8 +71,3 @@ The new design first needs to be adapted back to mobile devices by for
 instance hiding the creation menu and the toolbar on small screens.
 Further, all the new features need to be thoroughly tested on touch
 devices to make sure they work as expected.
-We also have a number of new features, 
-such as short and long term plasticity and multicompartmental models,
-that have been requested by our users. 
-Work on these features may delay the release of the new design to 
-mobile devices somewhat.
