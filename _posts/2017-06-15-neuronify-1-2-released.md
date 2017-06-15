@@ -43,7 +43,16 @@ behavior of the neuron, making it easier to visualize:
 ![New properties menu](/img/posts/neuronify-1-2-neuron-properties.png){:class="img-responsive"}
 
 The opreations for undo, redo, cut, copy, paste and delete are now available from the
-top toolbar:
+top toolbar as well as with the usual shortcuts:
+
+* Ctrl-X: Cut selection
+* Ctrl-C: Copy selection
+* Ctrl-V: Paste
+* Ctrl-Z: Undo
+* Ctrl-Shift-Z: Redo
+* Delete: Delete selection
+
+On Mac, the Command key is used instead of Ctrl and Backspace instead of Delete.
 
 ![New toolbar](/img/posts/neuronify-1-2-toolbar.png){:class="img-responsive"}
 
