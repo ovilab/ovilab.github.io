@@ -64,17 +64,20 @@ These can be shared with others by traditional means of file sharing or e-mail:
 
 ![New save menu](/img/posts/neuronify-1-2-save.png){:class="img-responsive"}
 
-Further, a community menu shows hosted simulations that can be downloaded.
-These are shared by other Neuronify users, which is a feature we think can be
-very attrative for teachers who wish to share their simulations with students.
+Finally, we have added a Community menu where you can download simulations created
+by other Neuronify users.
+This is a feature we hope can become very useful for teachers who would like to 
+share simulations with their students.
 
 ![New community menu](/img/posts/neuronify-1-2-community.png){:class="img-responsive"}
 
-Contact us if you are interested in sharing your simulations in the
-community menu.
-You find our contact information on the bottom of this page.
+Uploading simulations is currently moderated and only available to registered users,
+but will be available to all in a future version.
+Contact us if you would like to become a registered user and share your simulations 
+in the community menu.
+You will find our contact information on the bottom of this page.
 
-# What about mobile users? #
+# New features coming to mobile users in later release #
 
 The new features and design will be brought to mobile users in a later
 release.
