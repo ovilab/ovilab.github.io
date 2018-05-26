@@ -3,52 +3,194 @@ layout: page
 title: Privacy policy
 ---
 
-Your privacy is critically important to us. At Ovilab, we have a few fundamental principles:
-
-<ul>
-    <li>We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)</li>
-    <li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
-    <li>We don’t store personal information on our servers unless required for the ongoing operation of one of our services.</li>
-</ul>
-
-Below is our privacy policy, which incorporates these goals. (Note: we’ve based much of this privacy policy on the privacy policies of Automattic.com and Creative Commons. Neither Automattic.com nor Creative Commons are affiliated with Ovilab. This privacy policy is shared under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons ShareAlike</a> license, which means you’re more than welcome to steal it and repurpose it for your own use. Just make sure to replace references to us with ones to you, and we’re sure Automattic.com and Creative Commons would appreciate a link to Automattic.com and CreativeCommons.org somewhere on your site. They spent a lot of money and time on the below, and other people shouldn’t need to do the same. However, please keep in mind that this Privacy Policy may not be completely
-suitable for your situation. Ovilab strongly encourages you to seek the advice of your own attorney before repurposing this Privacy Policy on your own site.)
+Below is our privacy policy, which is based on the privacy policies of Automattic.com and Creative Commons.
+Neither Automattic.com nor Creative Commons are affiliated with Ovilab.
+They have just been kind enough to share their privacy policies under an open license, which has made it possible for us to reuse content from their policies.
+This means that our privacy policy is shared under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons ShareAlike</a> license, which means you’re more than welcome to steal it and repurpose it for your own use.
+Just make sure to replace references to us with ones to you, and we’re sure Automattic.com and Creative Commons would appreciate a link to automattic.com and creativecommons.org somewhere on your site.
+They spent a lot of money and time on the below, and other people shouldn’t need to do the same.
+However, please keep in mind that this Privacy Policy may not be completely suitable for your situation.
+Ovilab strongly encourages you to seek the advice of your own attorney before repurposing this Privacy Policy on your own site.)
 
 # Preamble #
-This Privacy Policy (“Privacy Policy”) explains the collection, use, and disclosure of “personal information” by Ovilab. Unless otherwise noted on a particular site or service, this Privacy Policy applies to your use of all websites that Ovilab operates, including <a href="http://creativecommons.org">http://ovilab.net</a>, (the “Ovilab Website”), (collectively, the “Websites”), as well as the products, information, and services provided by Ovilab, including software applications (together with the Websites, the “Services”). This Privacy Policy does not apply to any of the Services operated by affiliates of Ovilab.
 
-In addition, supplemental Privacy Policy terms (“Supplemental Privacy Policy Terms”) may apply to a particular Service. All such Supplemental Privacy Policy Terms will be accessible for you to read either within, or through your use of, that particular Service.
+This Privacy Policy applies to information that we collect about you when you use:
 
-As used in this policy, “personal information” means information that would allow a party to identify you such as, for example, your name, address or location, telephone number, or email address.
+* Our websites;
+* Our mobile applications (including the WordPress mobile app for Android and iOS);
+* Our other products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, and Akismet plans); and
+* Other users’ websites that use our Services, while you are logged in to your account with us.
 
-By accessing or using any of the Services, you are accepting and agreeing to the practices described in this Privacy Policy.
+Throughout this Privacy Policy we’ll refer to our website, mobile applications and other products and services collectively as “Services.”
 
-# Website Visitors #
+Please note that this Privacy Policy does not apply to any of our products or services that have a separate privacy policy.
 
-Like most website operators, Ovilab collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Ovilab’s purpose in collecting non-personally identifying information is to better understand how Ovilab’s visitors use its website. From time to time, Ovilab may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
+Creative Commons Sharealike License
 
-Ovilab also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Ovilab's websites. Ovilab only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
-# Gathering of Personally-Identifying Information #
-Certain users of Ovilab’s Services choose to interact with Ovilab in ways that require Ovilab to gather personally-identifying information. The amount and type of information that Ovilab gathers depends on the nature of the interaction. In each case, Ovilab collects such information only insofar as is necessary or appropriate to fulfill the purpose of the user's interaction with Ovilab. Ovilab does not disclose personally-identifying information other than as described below. And users can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain Service-related activities.
-# Aggregated Statistics #
-Ovilab may collect statistics about the behavior of users of its Services. Ovilab may display this information publicly or provide it to others. However, Ovilab does not disclose personally-identifying information other than as described below.
-# Participating in Our Community #
-Registered Users. When you register to obtain a user account on any of the Services (any such person, a “Registered User”), you may be asked to provide personal information to create your account and establish a password and profile. We encourage you to
-use an alias or nickname if you are not comfortable providing your legal name. The name or nickname you provide in connection with your account may be used to attribute you in connection with any content you submit to any Service. We also use that personal information to establish and maintain your account, to provide you with the features
-we provide Registered Users, and to email you regarding changes to this policy or other applicable policies. If you sign up to receive updates from Ovilab when you create your account, we will use your personal information to send you communications about Ovilab news and campaigns.
-# Protection of Certain Personally-Identifying Information #
-Ovilab discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, service providers and affiliated organizations that (i) need to know that information in order to process it on Ovilab’s behalf or to provide services available at Ovilab’s Websites and Services, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Ovilab’s Websites and Services, you consent to the transfer of such information to them. Ovilab will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Ovilab discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Ovilab believes in good faith that disclosure is reasonably necessary to protect the property or rights of Ovilab, third parties or the public at large. If you are a registered user of an Ovilab Website or Service and have supplied your email address, Ovilab may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Ovilab and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Ovilab takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. However, no Website or Service can fully eliminate security risks. Third parties may circumvent our security measures to unlawfully intercept or access transmissions or private communications. We will post a reasonably prominent notice to the Websites if any such security breach occurs.
-# Cookies #
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Ovilab uses cookies to help Ovilab identify and track visitors, their usage of Ovilab Websites, and their Website access preferences. Ovilab visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Ovilab’s Websites, with the drawback that certain features of Ovilab’s Websites may not function properly without the aid of cookies.
+# Information We Collect #
+
+We only collect information about you if we have a reason to do so–for example, to provide our Services, to communicate with you, or to make our Services better.
+
+We collect information in three ways: if and when you provide information to us, automatically through operating our Services, and from outside sources.
+
+Let’s go over the information that we collect.
+
+## Information You Provide to Us ##
+
+It’s probably no surprise that we collect information that you provide to us.
+The amount and type of information depends on the context and how we use the information.
+Here are some examples:
+
+* Basic Account Information: We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a Neuronify account to provide an email address - and that’s it. You may provide us with more information–like your name–but we don’t require that information to create a Neuronify account.
+* Public Profile Information: If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a Neuronify account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description. Your public profile information is just that–public–so please keep that in mind when deciding what information you would like to include.
+* Transaction and Billing Information: If you buy something from us you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.
+* Content Information: Depending on the Services you use, you may also provide us with information about you in draft and published content. For example, if you upload content that includes biographic information about you, we will have that information, and so will anyone with access to the Internet if you choose to publish the content publicly. This might be obvious to you, but it’s not to everyone!
+* Communications With Us: You may also provide us information when you respond to surveys, communicate with our developers about a support question, or post a question about your site in our public forums.
+
+## Information We Collect Automatically ##
+
+We also collect some information automatically:
+
+* Log Information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services.
+* Usage Information: We collect information about your usage of our Services. For example - the number of simulations run in Atomify. We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
+* Location Information: We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.
+* Stored Information: We may access information stored on your mobile device via our mobile app. We access this stored information through your device operating system’s permissions. For example, if you give us permission to access the photographs on your mobile device’s camera roll, our Services may access the photos stored on your device when you upload a really amazing illustration for your simulations in Atomify.
+* Interactions with Other Users’ Sites: We collect some information about your interactions with other users’ sites while you are logged in to your account with us, such as your “Likes” and the fact that you commented on a particular simulation, so that we can, for example, recommend simulations we think may interest you.
+* Information from Cookies & Other Technologies: A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. Ovilab uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services.
+
+## Information We Collect from Other Sources ##
+
+We may also get information about you from other sources. For example, if you create or log into your Neuronify account through another service (like Google) or if you connect your account to a social media service (like Twitter), we will receive information from that service (such as your username, basic profile information, and friends list) via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.
+
+# How And Why We Use Information #
+
+## Purposes for Using Information ##
+
+We use information about you as mentioned above and for the purposes listed below:
+
+* To provide our Services–for example, to set up and maintain your account, host your website, backup and restore your simulations, or charge you for any of our paid Services;
+* To further develop and improve our Services–for example by adding new features that we think our users will enjoy or will help them to create and manage their websites more efficiently;
+* To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
+* To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition–for example, we may analyze how many individuals purchased a plan after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time;
+* To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of Ovilab and others, which may result in us declining a transaction or the use of our Services;
+* To communicate with you, for example through an email, about offers and promotions offered by Ovilab and others we think will be of interest to you, solicit your feedback, or keep you up to date on Ovilab and our products; and
+* To personalize your experience using our Services, provide content recommendations, target our marketing messages to groups of our users (for example, those who have a particular plan with us or have been our user for a certain length of time), and serve relevant advertisements.
+
+# Legal Bases for Collecting and Using Information #
+
+A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:
+
+1. The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account–for example, in order to enable access to our website on your device or charge you for a paid plan; or
+
+2. The use is necessary for compliance with a legal obligation; or
+
+3. The use is necessary in order to protect your vital interests or those of another person; or
+
+4. We have a legitimate interest in using your information–for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience; or
+
+5. You have given us your consent.
+
+# Sharing Information #
+
+## How We Share Information ##
+
+We do not sell our users’ private personal information.
+
+We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy:
+
+* Subsidiaries, Employees, and Independent Contractors: We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
+* Third Party Vendors: We may share information about you with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you or your site. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, fraud prevention services that allow us to analyze fraudulent payment transactions, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, and data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Ovilab), those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers), and companies that make products available on our websites (such as the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. Other vendors are listed in our more specific policies (e.g. our Cookie Policy).
+* Legal Requests: We may disclose information about you in response to a subpoena, court order, or other governmental request. For more information on how we respond to requests for information about WordPress.com users, please see our Legal Guidelines.
+* To Protect Rights, Property, and Others: We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Ovilab, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
+* Business Transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that Ovilab goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
+* With Your Consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so, such as the social media services that you connect to your site through our Publicize feature.
+* Aggregated or De-Identified Information: We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
+* Other Site Owners: If you have a WordPress.com account and leave a comment on a site that uses our Services (like a site created on WordPress.com or a site running Jetpack), your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment.
+* Published Support Requests: And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.
+
+# Information Shared Publicly #
+
+Information that you choose to make public is - you guessed it - disclosed publicly.
+
+That means, of course, that information like your public profile, simulations, other content that you make public, and your “Likes” and comments on other simulations, are all available to others - and we hope you get a lot of views!
+
+Public information may also be indexed by search engines or used by third parties.
+
+Please keep all of this in mind when deciding what you would like to share.
+
+# How Long We Keep Information #
+
+We generally discard information about you when we no longer need the information for the purposes for which we collect and use it - which are described in the section above on How and Why We Use Information–and we are not legally required to continue to keep it.
+
+For example, we keep the web server logs that record information about a visitor to one of Ovilab’s websites, such as the visitor’s IP address, browser type, and operating system, for approximately 30 days. We retain the logs for this period of time in order to, among other things, analyze traffic to Ovilab’s websites and investigate issues if something goes wrong on one of our websites.
+
+As another example, when you delete a simulation, or comment from Neuronify Community, it stays in your Trash folder for thirty days just in case you change your mind and would like restore that content–because starting again from scratch is no fun, at all. After the thirty days are up, the deleted content may remain on our backups and caches until purged.
+
+# Security #
+
+While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so, such as monitoring our Services for potential vulnerabilities and attacks.
+
+To enhance the security of your account, we encourage you to enable our advanced security settings, like Two Step Authentication.
+
+# Choices #
+
+You have several choices available when it comes to information about you:
+
+* Limit the Information that You Provide: If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services–for example, paid, premium themes–may not be accessible.
+* Limit Access to Information On Your Mobile Device: Your mobile device operating system should provide you with the ability to discontinue our ability to collect stored information or location information via our mobile apps. If you do so, you may not be able to use certain features (like adding a location to a photograph, for example).
+* Opt-Out of Electronic Communications: You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
+* Set Your Browser to Reject Cookies: At this time, Ovilab does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using Ovilab’s websites, with the drawback that certain features of Ovilab’s websites may not function properly without the aid of cookies.
+* Close Your Account: While we’d be very sad to see you go, if you no longer want to use our Services :( :( :( :(, you can close your accounts. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above – for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+
+# Your Rights #
+
+If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
+
+    * Request access to your personal data;
+    * Request correction or deletion of your personal data;
+    * Object to our use and processing of your personal data;
+    * Request that we limit our use and processing of your personal data; and
+    * Request portability of your personal data.
+
+You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us.
+
+EU individuals also have the right to make a complaint to a government supervisory authority.
+
+# Other Things You Should Know (Keep Reading!) #
+
+Transferring Information
+
+Because Ovilab's Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third party data processors. This is required for the purposes listed in the How and Why We Use Information section above. When providing information about you to entities outside the EEA, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy as required by applicable law. These measures include:
+
+* In the case of US based entities, entering into European Commission approved standard contractual arrangements with them, or ensuring they have signed up to the EU-US Privacy Shield; or
+* In the case of entities based in other countries outside the EEA, entering into European Commission approved standard contractual arrangements with them.
+
+You can ask us for more information about the steps we take to protect your personal information when transferring it from the EU.
+
 # Business Transfers #
+
 If Ovilab, or substantially all of its assets, were acquired, or in the unlikely event that Ovilab goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Ovilab may continue to use your personal information as set forth in this Privacy Policy.
-# Ads #
-Ads appearing on any of our Websites or Services may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Ovilab and does not cover the use of cookies by any advertisers.
+
 # Children #
+
 The Services are not directed at children under the age of 13. We will never knowingly request personal information from anyone under the age of 13 without requiring parental consent. We prohibit anyone using our Services from submitting any personally identifiable information about persons under 13 years of age. Any person who provides their personal information to Ovilab through the Services represents that they are 13 years of age or older.
+
 # Third-Party Sites #
+
 The Services may include links to other websites. You should consult the respective privacy policies of these third-party sites. This Privacy Policy does not apply to, and we cannot control the activities of, such other websites.
+
 # Special Note to International Users #
+
 The Services are primarily hosted in Norway, the United States, the European Union, and the United Kingdom. Please note that your personal data may be located on servers outside of your home country, including, but not limited to, locations in Norway, the United States, the European Union, and/or the United Kingdom. By providing your personal data you consent to the use of your personal data for the uses identified above in accordance with the Privacy Policy.
-# Changes and Updates to this Privacy Policy #
-We may occasionally update this Privacy Policy. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personal information we collect. Your continued use of the Services constitutes your agreement to this Privacy Policy and any updates.
+
+# Third Party Software #
+
+If you’d like to use third party plugins, or other third party software, please keep in mind that when you interact with them you may provide information about yourself (or your site visitors) to those third parties. We don’t own or control these third parties and they have their own rules about collection, use and sharing of information, which you should review.
+
+# Privacy Policy Changes #
+
+Although most changes are likely to be minor, Ovilab may change its Privacy Policy from time to time. Ovilab encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or the WordPress.com Blog, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
+
+That’s it! Thanks for reading.
+
