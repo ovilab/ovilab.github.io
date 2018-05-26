@@ -17,9 +17,8 @@ Ovilab strongly encourages you to seek the advice of your own attorney before re
 This Privacy Policy applies to information that we collect about you when you use:
 
 * Our websites;
-* Our mobile applications (including the WordPress mobile app for Android and iOS);
-* Our other products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, and Akismet plans); and
-* Other users’ websites that use our Services, while you are logged in to your account with us.
+* Our mobile applications; and
+* Our other products and services that are available on or through our websites.
 
 Throughout this Privacy Policy we’ll refer to our website, mobile applications and other products and services collectively as “Services.”
 
@@ -101,7 +100,7 @@ We share information about you in the limited circumstances spelled out below an
 
 * Subsidiaries, Employees, and Independent Contractors: We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
 * Third Party Vendors: We may share information about you with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you or your site. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, fraud prevention services that allow us to analyze fraudulent payment transactions, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, and data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Ovilab), those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers), and companies that make products available on our websites, who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. Other vendors are listed in our more specific policies.
-* Legal Requests: We may disclose information about you in response to a subpoena, court order, or other governmental request. For more information on how we respond to requests for information about WordPress.com users, please see our Legal Guidelines.
+* Legal Requests: We may disclose information about you in response to a subpoena, court order, or other governmental request.
 * To Protect Rights, Property, and Others: We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Ovilab, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
 * Business Transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that Ovilab goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
 * With Your Consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so, such as the social media services that you connect to your site through our Publicize feature.
@@ -146,11 +145,11 @@ You have several choices available when it comes to information about you:
 
 If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
 
-    * Request access to your personal data;
-    * Request correction or deletion of your personal data;
-    * Object to our use and processing of your personal data;
-    * Request that we limit our use and processing of your personal data; and
-    * Request portability of your personal data.
+* Request access to your personal data;
+* Request correction or deletion of your personal data;
+* Object to our use and processing of your personal data;
+* Request that we limit our use and processing of your personal data; and
+* Request portability of your personal data.
 
 You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to Contact Us to, well, find out how to reach us.
 
@@ -185,7 +184,7 @@ If you’d like to use third party plugins, or other third party software, pleas
 
 # Privacy Policy Changes #
 
-Although most changes are likely to be minor, Ovilab may change its Privacy Policy from time to time. Ovilab encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or the WordPress.com Blog, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
+Although most changes are likely to be minor, Ovilab may change its Privacy Policy from time to time. Ovilab encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or the ovilab.net blog, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
 
 That’s it! Thanks for reading.
 
