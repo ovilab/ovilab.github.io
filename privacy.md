@@ -152,7 +152,7 @@ If you are located in certain countries, including those that fall under the sco
     * Request that we limit our use and processing of your personal data; and
     * Request portability of your personal data.
 
-You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us.
+You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to Contact Us to, well, find out how to reach us.
 
 EU individuals also have the right to make a complaint to a government supervisory authority.
 
